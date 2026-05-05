@@ -131,7 +131,7 @@ Ya tengo experiencia real: he trabajado en **procesos ETL para mi universidad** 
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [scraper-noticias](https://github.com/jhordycamacas/proyecto-personal) | Web scraper con almacenamiento en BD y alertas automáticas | Python · BeautifulSoup |
+| [proyecto-personal-acuario](https://github.com/jhordycamacas/proyecto-personal) | Web scraper con almacenamiento en BD y alertas automáticas | Python · BeautifulSoup |
 
 ---
 
