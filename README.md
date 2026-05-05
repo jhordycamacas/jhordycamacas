@@ -138,22 +138,18 @@ Ya tengo experiencia real: he trabajado en **procesos ETL para mi universidad** 
 ## 📈 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhordycamacas&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhordycamacas&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jhordycamacas&theme=github-dark-blue&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=484f58)](https://git.io/streak-stats)
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhordycamacas&theme=github_dark" alt="Actividad de jhordycamacas en GitHub" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhordycamacas&theme=github_dark" alt="Repos por lenguaje" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jhordycamacas&theme=github_dark" alt="Lenguajes por commits" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhordycamacas&theme=github_dark" alt="Stats generales" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jhordycamacas&theme=github_dark&utcOffset=-5" alt="Horas productivas" height="180"/>
 </div>
-
----
 
 ## 📬 Contacto
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhordy_Camacas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jhordy-josé-camacas-duarte-aa7367321)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhordy_Camacas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhordy-jos%C3%A9-camacas-duarte-aa7367321/)
 [![Gmail](https://img.shields.io/badge/Gmail-TU_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhordycamacas9@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jhordycamacas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhordycamacas)
 
