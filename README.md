@@ -112,8 +112,8 @@ Ya tengo experiencia real: he trabajado en **procesos ETL para mi universidad** 
 
 | Proyecto | Descripción | Materia / Stack |
 |---|---|---|
-| [practica-poo](https://github.com/jhordycamacas/practica-poo) | Ejercicios de programación orientada a objetos | POO · Java |
-| [taller-bd](https://github.com/jhordycamacas/taller-bd) | Diseño e implementación de base de datos desde cero | Base de Datos · SQL |
+| [1erCiclo-Programación](https://github.com/jhordycamacas/proyectofinal/tree/main) | Ejercicios de programación básicos | Problemas Basicos · Java |
+| [2doCiclo-POO](https://github.com/jhordycamacas/Poo/tree/main) | Talleres de Programación Orientada a Objetos | Java · Python |
 | [ejercicios-algoritmos](https://github.com/jhordycamacas/ejercicios-algoritmos) | Problemas clásicos de algoritmos y estructuras | Algoritmos · C++ |
 
 *Estos proyectos reflejan mi proceso de aprendizaje — muestran el camino, no solo el destino.*
