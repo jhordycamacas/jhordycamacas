@@ -79,7 +79,7 @@ Ya tengo experiencia real: he trabajado en **procesos ETL para mi universidad** 
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [etl-pipeline-ventas](https://github.com/jhordycamacas/etl-pipeline-ventas) | Pipeline ETL para ingestión y transformación de datos de ventas | Python · pandas · SQLite |
-| [db-design-ecommerce](https://github.com/jhordycamacas/db-design-ecommerce) | Diseño de BD relacional normalizada para plataforma e-commerce | PostgreSQL · ERD |
+| [Proyecto-Prracticas-AgentesIA](https://github.com/jhordycamacas/Practicum1.2DGTDTI) | Desarrollo de un Agente IA para optimizar procesos | PostgreSQL · ERD |
 
 ### 🌐 Desarrollo Web
 > Páginas, aplicaciones y herramientas con interfaz web
@@ -114,7 +114,8 @@ Ya tengo experiencia real: he trabajado en **procesos ETL para mi universidad** 
 |---|---|---|
 | [1erCiclo-Programación](https://github.com/jhordycamacas/proyectofinal/tree/main) | Ejercicios de programación básicos | Problemas Basicos · Java |
 | [2doCiclo-POO](https://github.com/jhordycamacas/Poo/tree/main) | Talleres de Programación Orientada a Objetos | Java · Python |
-| [ejercicios-algoritmos](https://github.com/jhordycamacas/ejercicios-algoritmos) | Problemas clásicos de algoritmos y estructuras | Algoritmos · C++ |
+| [3erCiclo-Programación Funcional y Reactiva](https://github.com/jhordycamacas/TallerS152B) | Taller de programación acerca de la conexión a una base de datos y procesos ETL | Scala · MySql |
+| [4erciclo-Programación-Avanzada](https://github.com/jhordycamacas/intro-threads) | Ejercicios de programación para el aprendizaje de los hilos organizado en branches | Java |
 
 *Estos proyectos reflejan mi proceso de aprendizaje — muestran el camino, no solo el destino.*
 
