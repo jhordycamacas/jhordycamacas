@@ -152,7 +152,7 @@ Ya tengo experiencia real: he trabajado en **procesos ETL para mi universidad** 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhordy_Camacas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhordy-jos%C3%A9-camacas-duarte-aa7367321/)
-[![Gmail](https://img.shields.io/badge/Gmail-TU_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhordycamacas9@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-jhordycamacas9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhordycamacas9@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jhordycamacas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhordycamacas)
 
 </div>
