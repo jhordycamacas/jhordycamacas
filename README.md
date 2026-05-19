@@ -115,8 +115,11 @@ Ya tengo experiencia real: he trabajado en **procesos ETL para mi universidad** 
 |---|---|---|
 | [1erCiclo-Programación](https://github.com/jhordycamacas/proyectofinal/tree/main) | Ejercicios de programación básicos | Problemas Basicos · Java |
 | [2doCiclo-POO](https://github.com/jhordycamacas/Poo/tree/main) | Talleres de Programación Orientada a Objetos | Java · Python |
+| [2doCiclo-POO](https://github.com/jhordycamacas/Taller-1-UML) | Taller básico UML | UML |
+| [2doCiclo-Estructuras_Datos](https://github.com/jhordycamacas/2do-ciclo) | Talleres de Estructuras de Datos | Java · Matrices |
 | [3erCiclo-Programación Funcional y Reactiva](https://github.com/jhordycamacas/TallerS152B) | Taller de programación acerca de la conexión a una base de datos y procesos ETL | Scala · MySql |
-| [4erciclo-Programación-Avanzada](https://github.com/jhordycamacas/intro-threads) | Ejercicios de programación para el aprendizaje de los hilos organizado en branches | Java |
+| [4tociclo-Programación-Avanzada](https://github.com/jhordycamacas/intro-threads) | Ejercicios de programación para el aprendizaje de los hilos organizado en branches | Java |
+| [4tociclo-Programación-Avanzada](https://github.com/jhordycamacas/PruebaParcial1BIM) | Prueba de programación, búsqueda de una palabra en una matriz usando hilos | Java |
 
 *Estos proyectos reflejan mi proceso de aprendizaje — muestran el camino, no solo el destino.*
 
