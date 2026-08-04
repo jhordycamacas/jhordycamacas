@@ -9,7 +9,7 @@
 <br/>
 
 [![Age](https://img.shields.io/badge/19_años-0d1117?style=flat-square&logo=cake&logoColor=58a6ff&labelColor=0d1117&color=1f6feb)](https://github.com/jhordycamacas)
-[![Student](https://img.shields.io/badge/4to_Ciclo_·_Ing._Computación-0d1117?style=flat-square&logo=mortarboard&logoColor=7ee787&labelColor=0d1117&color=238636)](https://github.com/jhordycamacas)
+[![Student](https://img.shields.io/badge/5to_Ciclo_·_Ing._Computación-0d1117?style=flat-square&logo=mortarboard&logoColor=7ee787&labelColor=0d1117&color=238636)](https://github.com/jhordycamacas)
 [![English](https://img.shields.io/badge/English_B2-0d1117?style=flat-square&logo=googletranslate&logoColor=f59e0b&labelColor=0d1117&color=9e6a03)](https://github.com/jhordycamacas)
 [![Location](https://img.shields.io/badge/Ecuador_🇪🇨-0d1117?style=flat-square&logo=googlemaps&logoColor=ef4444&labelColor=0d1117&color=da3633)](https://github.com/jhordycamacas)
 [![Open](https://img.shields.io/badge/Disponible_para_proyectos-0d1117?style=flat-square&logo=checkmarx&logoColor=3fb950&labelColor=0d1117&color=238636)](https://github.com/jhordycamacas)
